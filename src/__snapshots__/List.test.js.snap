@@ -1,0 +1,10 @@
+exports[`List Should snapshot list 1`] = `
+<ul>
+  <li>
+    first
+  </li>
+  <li>
+    second
+  </li>
+</ul>
+`;
